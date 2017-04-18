@@ -1,0 +1,26 @@
+{
+  "name": "VremenskaPrognoza",
+  "homepage": "https://github.com/Cika23/VremenskaPrognoza",
+  "authors": [
+    "Cika23 <icikojev@fesb.hr>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "1.5.0",
+    "angular-route": "1.5.0",
+    "angular-resource": "1.5.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "vremenskaprognoza",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cika23/VremenskaPrognoza.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cika23/VremenskaPrognoza/issues"
+  },
+  "homepage": "https://github.com/Cika23/VremenskaPrognoza#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
